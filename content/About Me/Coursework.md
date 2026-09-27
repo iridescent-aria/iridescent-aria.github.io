@@ -38,3 +38,10 @@ title: Coursework
 - Intro to Point-Set and Algebraic Topology
 - Complex Analysis
 - Differential Equations
+
+## Aug '24 - Nov '24
+- Ordinals, Constructibility, and Forcing
+- Measure-Theoretic Probability
+- Algebraic Automata Theory (half-semester)
+- Introduction to Concurrent Programming (half-semester)
+- Creative Writing - Fiction and Poetry
